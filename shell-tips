@@ -1,0 +1,21 @@
+cd
+	vai alla home dell'utente che esegue il comando
+
+~/.bash_aliases
+	percorso file alias
+
+git add -A
+	aggiunge i file pronti per il commit
+
+git commit -m "messaggi di testo"
+	fa il commit sul repository locale
+
+git push origin master
+	carica tutti i commit sul repository remoto
+
+git pull origin master 
+	scarica gli aggiornamenti dal repository remoto
+
+cat nomefile
+	stampa nel terminale il contenuto ascii del file (nomefile può essere un percorso relativo o assoluto)
+	
