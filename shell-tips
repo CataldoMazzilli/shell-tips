@@ -1,8 +1,11 @@
 cd
 	vai alla home dell'utente che esegue il comando
 
+~/.bashrc
+	percorso file di configurazione (utente) di bash
+
 ~/.bash_aliases
-	percorso file alias
+	percorso file alias (utente)
 
 git add -A
 	aggiunge i file pronti per il commit
